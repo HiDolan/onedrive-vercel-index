@@ -1,5 +1,6 @@
 {
   "client_id": "8f4e0b5d-6ef8-4351-9407-292b99c43f09",
+  "base":"/public"
   "client_secret": "i94v._294elm-X.NXeM0o_J5g915DGNfAj",
   "redirect_uri": "http://localhost",
   "auth_endpoint": "https://login.microsoftonline.com/common/oauth2/v2.0",
